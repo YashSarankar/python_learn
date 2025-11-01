@@ -1,8 +1,6 @@
-# a=1
-# b=2
+a=1
+b=2
 
-# result=a+b
+result=a+b
 
-# print(result)
-
-print("Hello, world!")
+print(result)
